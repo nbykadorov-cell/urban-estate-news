@@ -1,5 +1,0 @@
-{
-  "functions": {
-    "api/news.js": { "maxDuration": 30 }
-  }
-}
